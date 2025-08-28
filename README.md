@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Leandro Ribeiro
 
 Sou desenvolvedor em formação, empreendedor e apaixonado por tecnologia.  
-Atualmente estou cursando **Análise e Desenvolvimento de Sistemas (UNINTER)** e tenho experiência prática em **gestão de negócios, liderança e vendas**. Também já atuei como **oficial do Exército Brasileiro (2022-2023)**, onde desenvolvi disciplina, trabalho em equipe e resiliência.
+Atualmente estou cursando **Análise e Desenvolvimento de Sistemas (UNINTER)** e tenho experiência prática em **gestão de negócios, liderança e vendas**. Também já atuei como **oficial do Exército Brasileiro (2020-2023)**, onde desenvolvi disciplina, trabalho em equipe e resiliência.
 
 ## 🚀 Sobre mim
 - 🎯 Objetivo: evoluir como desenvolvedor e criar projetos que gerem impacto real.  
