@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Leandro Ribeiro
 
-<!--
-**Ribeiroleandro18/Ribeiroleandro18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou desenvolvedor em formação, empreendedor e apaixonado por tecnologia.  
+Atualmente estou cursando **Análise e Desenvolvimento de Sistemas (UNINTER)** e tenho experiência prática em **gestão de negócios, liderança e vendas**. Também já atuei como **oficial do Exército Brasileiro (2022-2023)**, onde desenvolvi disciplina, trabalho em equipe e resiliência.
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim
+- 🎯 Objetivo: evoluir como desenvolvedor e criar projetos que gerem impacto real.  
+- 📚 Estudando atualmente: **JavaScript, Python e fundamentos de programação.**  
+- 🌍 Interesses: tecnologia, empreendedorismo, idiomas (aprendendo inglês e espanhol).  
+- 💡 Curiosidade: já empreendi no ramo de impermeabilização, onde adquiri experiência com atendimento ao cliente e gestão de loja.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias & Ferramentas
+- Lógica de programação e algoritmos  
+- Git & GitHub  
+- Python (iniciante)  
+- JavaScript (iniciante)  
+- HTML & CSS  
+
+## 📈 Próximos passos
+- Aprofundar em desenvolvimento web e back-end.  
+- Criar e compartilhar projetos open source.  
+- Conectar com outros desenvolvedores e empreendedores.  
+
+---
+
+📫 Me encontre também no [LinkedIn](https://www.linkedin.com/in/ribeiroleandro18/)  
